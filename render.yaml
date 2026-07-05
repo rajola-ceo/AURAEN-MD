@@ -5,7 +5,7 @@ services:
     dockerfilePath: lib/Dockerfile
     envVars:
       - key: SESSION_ID
-        value: ""
+        value: "3c70fbe98e3a5a994b1ff33af81e5a5e"
       - key: OWNER_NUMBER
         value: "25567619512"
       - key: BOT_NAME
